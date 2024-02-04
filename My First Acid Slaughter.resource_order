@@ -17,7 +17,8 @@
     {"name":"Timelines","order":8,"path":"folders/Timelines.yy",},
   ],
   "ResourceOrderSettings": [
-    {"name":"sprEnemy","order":1,"path":"sprites/sprEnemy/sprEnemy.yy",},
+    {"name":"spr_level1_bg","order":8,"path":"sprites/spr_level1_bg/spr_level1_bg.yy",},
+    {"name":"spr_Enemy","order":1,"path":"sprites/spr_Enemy/spr_Enemy.yy",},
     {"name":"spr_healthbarborder","order":6,"path":"sprites/spr_healthbarborder/spr_healthbarborder.yy",},
     {"name":"spr_Gun","order":3,"path":"sprites/spr_Gun/spr_Gun.yy",},
     {"name":"spr_PlayerRun","order":7,"path":"sprites/spr_PlayerRun/spr_PlayerRun.yy",},
