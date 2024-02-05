@@ -126,6 +126,7 @@
     {"name":"inst_62B8A962","path":"rooms/Level/Level.yy",},
     {"name":"inst_10782501","path":"rooms/Level/Level.yy",},
     {"name":"inst_25B7C2D5","path":"rooms/Level/Level.yy",},
+    {"name":"inst_7500C044","path":"rooms/Level/Level.yy",},
   ],
   "isDnd": false,
   "layers": [
@@ -255,6 +256,7 @@
         {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_5C9B9B9D","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"objectId":{"name":"obj_Wall","path":"objects/obj_Wall/obj_Wall.yy",},"properties":[],"rotation":-90.0,"scaleX":2.28125,"scaleY":0.046875,"x":3176.0,"y":1699.0,},
         {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_519C91AC","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"objectId":{"name":"obj_Wall","path":"objects/obj_Wall/obj_Wall.yy",},"properties":[],"rotation":0.0,"scaleX":0.09374999,"scaleY":0.7109375,"x":3000.0,"y":1696.376,},
         {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_3414DDF5","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"objectId":{"name":"obj_Wall","path":"objects/obj_Wall/obj_Wall.yy",},"properties":[],"rotation":-90.0,"scaleX":0.09374999,"scaleY":0.7109375,"x":3343.0,"y":1828.0,},
+        {"resourceType":"GMRInstance","resourceVersion":"1.0","name":"inst_7500C044","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"objectId":{"name":"obj_WinBlock","path":"objects/obj_WinBlock/obj_WinBlock.yy",},"properties":[],"rotation":0.0,"scaleX":1.0,"scaleY":0.5,"x":448.0,"y":32.0,},
       ],"layers":[],"properties":[],"userdefinedDepth":false,"visible":false,},
     {"resourceType":"GMREffectLayer","resourceVersion":"1.0","name":"effect_AcidLvl6","depth":400,"effectEnabled":true,"effectType":"none","gridX":32,"gridY":32,"hierarchyFrozen":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"inheritSubLayers":true,"inheritVisibility":true,"layers":[],"properties":[],"userdefinedDepth":false,"visible":false,},
     {"resourceType":"GMREffectLayer","resourceVersion":"1.0","name":"effect_AcidLvl4","depth":500,"effectEnabled":true,"effectType":"none","gridX":32,"gridY":32,"hierarchyFrozen":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"inheritSubLayers":true,"inheritVisibility":true,"layers":[],"properties":[],"userdefinedDepth":false,"visible":false,},

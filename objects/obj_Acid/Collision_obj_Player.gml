@@ -1,9 +1,10 @@
 /// @DnDAction : YoYo Games.Common.Execute_Code
 /// @DnDVersion : 1
 /// @DnDHash : 523DA2DA
-/// @DnDArgument : "code" "/// @description Execute Code$(13_10)global.heldAcid += 1"
+/// @DnDArgument : "code" "/// @description Execute Code$(13_10)global.acidCollected += 1$(13_10)global.acidInInventory += 1"
 /// @description Execute Code
-global.heldAcid += 1
+global.acidCollected += 1
+global.acidInInventory += 1
 
 /// @DnDAction : YoYo Games.Instance Variables.Set_Score
 /// @DnDVersion : 1

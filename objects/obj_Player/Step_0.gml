@@ -2,9 +2,9 @@
 // You can write your code in this editor
 
 //Acid bar stuff
-if (global.CurrentAcidCapacity > 0) {
+if (global.currentAcidCapacity > 0) {
 	
-	global.CurrentAcidCapacity -=1
+	global.currentAcidCapacity -=1
 }
 else {
 	room_restart()

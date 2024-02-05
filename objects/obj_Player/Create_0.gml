@@ -19,8 +19,9 @@ cdValue = 10;
 cd = 0;
 
 //More variables
-global.heldAcid = 0
-global.AcidLevel = 0
-global.AcidMaxCapacity = room_speed * 15
-global.CurrentAcidCapacity = room_speed * 15
+global.acidCollected = 0
+global.acidInInventory = 0
+global.acidLevel = 0
+global.acidMaxCapacity = room_speed * 15
+global.currentAcidCapacity = room_speed * 15
 
