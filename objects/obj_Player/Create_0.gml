@@ -18,4 +18,9 @@ vsp = 0
 cdValue = 10;
 cd = 0;
 
+//More variables
+global.heldAcid = 0
+global.AcidLevel = 0
+global.AcidMaxCapacity = room_speed * 15
+global.CurrentAcidCapacity = room_speed * 15
 
