@@ -10,6 +10,11 @@ else {
 	room_restart()
 }
 
+//Check health
+if(hp <= 0) {
+	room_restart()
+}
+
 //Get input
 var moveX = keyboard_check(ord("D")) - keyboard_check(ord("A"));
 var moveY = keyboard_check(ord("S")) - keyboard_check(ord("W"));
