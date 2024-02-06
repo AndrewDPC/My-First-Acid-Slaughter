@@ -41,6 +41,7 @@
     {"name":"spr_mushroomProjectile","order":3,"path":"sprites/spr_mushroomProjectile/spr_mushroomProjectile.yy",},
     {"name":"WinScreen","order":4,"path":"rooms/WinScreen/WinScreen.yy",},
     {"name":"spr_flyingEyeEnemy","order":1,"path":"sprites/spr_flyingEyeEnemy/spr_flyingEyeEnemy.yy",},
+    {"name":"obj_MenuController","order":15,"path":"objects/obj_MenuController/obj_MenuController.yy",},
     {"name":"spr_InstBkg","order":23,"path":"sprites/spr_InstBkg/spr_InstBkg.yy",},
     {"name":"obj_Controller","order":10,"path":"objects/obj_Controller/obj_Controller.yy",},
     {"name":"spr_mushroomEnemy","order":2,"path":"sprites/spr_mushroomEnemy/spr_mushroomEnemy.yy",},

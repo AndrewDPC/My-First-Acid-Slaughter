@@ -61,6 +61,7 @@
     {"id":{"name":"spr_mushroomProjectile","path":"sprites/spr_mushroomProjectile/spr_mushroomProjectile.yy",},},
     {"id":{"name":"WinScreen","path":"rooms/WinScreen/WinScreen.yy",},},
     {"id":{"name":"spr_flyingEyeEnemy","path":"sprites/spr_flyingEyeEnemy/spr_flyingEyeEnemy.yy",},},
+    {"id":{"name":"obj_MenuController","path":"objects/obj_MenuController/obj_MenuController.yy",},},
     {"id":{"name":"spr_InstBkg","path":"sprites/spr_InstBkg/spr_InstBkg.yy",},},
     {"id":{"name":"obj_Wall","path":"objects/obj_Wall/obj_Wall.yy",},},
     {"id":{"name":"obj_Controller","path":"objects/obj_Controller/obj_Controller.yy",},},
