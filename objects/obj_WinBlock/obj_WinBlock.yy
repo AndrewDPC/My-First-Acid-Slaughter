@@ -32,5 +32,5 @@
     "path": "sprites/spr_WinBlock/spr_WinBlock.yy",
   },
   "spriteMaskId": null,
-  "visible": true,
+  "visible": false,
 }
