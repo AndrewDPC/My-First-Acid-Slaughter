@@ -22,6 +22,6 @@ cd = 0;
 global.acidCollected = 0
 global.acidInInventory = 0
 global.acidLevel = 0
-global.acidMaxCapacity = room_speed * 15
-global.currentAcidCapacity = room_speed * 15
+global.acidMaxCapacity = room_speed * 20
+global.currentAcidCapacity = room_speed * 20
 
