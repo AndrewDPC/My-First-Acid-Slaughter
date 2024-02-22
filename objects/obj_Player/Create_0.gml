@@ -25,3 +25,10 @@ global.acidLevel = 0
 global.acidMaxCapacity = room_speed * 20
 global.currentAcidCapacity = room_speed * 20
 
+
+//Create Inventory Bar
+if (!instance_exists(obj_Inventory)) {
+    inventoryPosX = display_get_gui_width() / 2;
+    inventoryPosY = display_get_gui_height() - sprite_height / 2;
+    instance_create_layer(inventoryPosX, inventoryPosY, "InventoryBar", obj_Inventory);
+}

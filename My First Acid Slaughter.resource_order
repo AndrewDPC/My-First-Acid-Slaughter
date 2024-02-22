@@ -24,6 +24,8 @@
     {"name":"Tilesets","order":15,"path":"folders/Sprites/Tilesets.yy",},
     {"name":"Tile Sets","order":2,"path":"folders/Tile Sets.yy",},
     {"name":"Timelines","order":8,"path":"folders/Timelines.yy",},
+    {"name":"Inventory Stuff","order":19,"path":"folders/Objects/Inventory Stuff.yy",},
+    {"name":"Inventory Stuff","order":30,"path":"folders/Sprites/Inventory Stuff.yy",},
   ],
   "ResourceOrderSettings": [
     {"name":"spr_level1_bg","order":8,"path":"sprites/spr_level1_bg/spr_level1_bg.yy",},
